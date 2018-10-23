@@ -7,11 +7,11 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-Day.create(name: "Monday", date:2018-11-12 )
-Day.create(name: "Tuesday", date:2018-11-13 )
-Day.create(name: "Wednesday", date:2018-11-14 )
-Day.create(name: "Thursday", date:2018-11-15 )
-Day.create(name: "Friday", date:2018-11-16 )
+Day.create(name: "Monday", date: 4.days.ago )
+Day.create(name: "Tuesday", date: 3.days.ago )
+Day.create(name: "Wednesday", date: 2.days.ago )
+Day.create(name: "Thursday", date: 1.days.ago )
+Day.create(name: "Friday", date: Date.today )
 
 
 Note.create(name: "Fishing", description: "we going fishing at this day", day_id:1)
