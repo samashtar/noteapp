@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_10_22_161215) do
+ActiveRecord::Schema.define(version: 2018_10_23_145539) do
 
   create_table "days", force: :cascade do |t|
     t.string "name"
@@ -23,6 +23,13 @@ ActiveRecord::Schema.define(version: 2018_10_22_161215) do
     t.string "name"
     t.string "description"
     t.integer "day_id"
+    t.integer "type_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "types", force: :cascade do |t|
+    t.string "name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
