@@ -9,9 +9,9 @@
 Day.create(name: Date.new.strftime('%A'), date: Date.new())
 Day.create(name: 4.days.ago.strftime('%A'), date: 4.days.ago)
 Day.create(name: 3.days.ago.strftime('%A'), date: 3.days.ago )
-Day.create(name: 2.days.ago.strftime('%A'), date: 2.days.ago )
-Day.create(name: 1.days.ago.strftime('%A'), date: 1.days.ago )
-Day.create(name: Date.today.strftime('%A'), date: Date.today )
+# Day.create(name: 2.days.ago.strftime('%A'), date: 2.days.ago )
+# Day.create(name: 1.days.ago.strftime('%A'), date: 1.days.ago )
+# Day.create(name: Date.today.strftime('%A'), date: Date.today )
 
 
 Type.create(name: "No Type")
@@ -22,4 +22,4 @@ Type.create(name: "Not Urgent")
 
 Note.create(name: "Fishing", description: "we going fishing at this day", day_id:1, type_id:1)
 Note.create(name: "Surfing", description: "hit da waves", day_id:2, type_id:2)
-Note.create(name: "cat sitting", description: "looking after pussies", day_id:4, type_id:3)
+Note.create(name: "cat sitting", description: "looking after pussies", day_id:3, type_id:3)

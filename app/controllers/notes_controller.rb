@@ -9,7 +9,6 @@ class NotesController < ApplicationController
   end
 
   def create
-      byebug;
     @note = Note.new(note_params)
     @note.save
     render json: @note
