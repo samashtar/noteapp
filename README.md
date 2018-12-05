@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="../note-app-front-end/assets/main.png" alt="Markdownify" ></a>
+  <img src="../note-app-front-end/assets/main.png" >
   <br>
 NOTED  
 <br>
@@ -58,7 +58,7 @@ $ open index.html
 
 <h3 align="center">
 Create A Note  <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="../note-app-front-end/assets/newnote.png" alt="Markdownify" ></a>
+  <img src="../note-app-front-end/assets/newnote.png" >
   <br>
 <br>
 </h3>
@@ -67,14 +67,14 @@ Create A Note  <br>
 <h3 align="center">
 Search Function 
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="../note-app-front-end/assets/search.png" alt="Markdownify" ></a>
+  <img src="../note-app-front-end/assets/search.png" >
   <br>
 <br>
 </h3>
 
 <h3 align="center">
 Edit A Note  <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="../note-app-front-end/assets/edit.png" alt="Markdownify" ></a>
+  <img src="../note-app-front-end/assets/edit.png" >
   <br>
 <br>
 </h3>
