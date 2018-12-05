@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="../note-app-front-end/assets/main.png" >
+  <img src="./assets/main.png" >
   <br>
 NOTED  
 <br>
@@ -58,7 +58,7 @@ $ open index.html
 
 <h3 align="center">
 Create A Note  <br>
-  <img src="../note-app-front-end/assets/newnote.png" >
+  <img src="./assets/newnote.png" >
   <br>
 <br>
 </h3>
@@ -67,14 +67,14 @@ Create A Note  <br>
 <h3 align="center">
 Search Function 
   <br>
-  <img src="../note-app-front-end/assets/search.png" >
+  <img src="./assets/search.png" >
   <br>
 <br>
 </h3>
 
 <h3 align="center">
 Edit A Note  <br>
-  <img src="../note-app-front-end/assets/edit.png" >
+  <img src="./assets/edit.png" >
   <br>
 <br>
 </h3>
