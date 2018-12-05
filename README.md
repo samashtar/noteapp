@@ -7,6 +7,7 @@ NOTED
 </h1>
 
 <h4 align="center">A single-page note-taking app with options to add types and deadlines that sync with a calendar. </h4>
+<h6>** this is the back-end, for front-end go <a href="https://github.com/samashtar/note-app-front-end">here</a> </h6>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
